@@ -9,7 +9,7 @@ const HomePage = () => (
         <HomePageContainer>
             <Directory />
         </HomePageContainer>
-        <FooterTextContainer>this app product by Mohammed Shamia email:mohdkarera@gmail.com  </FooterTextContainer>
+        <FooterTextContainer>this app product by Mariam DHIFALLAH email:mariamdhifallahing@gmail.com  </FooterTextContainer>
     </div>
 );
 
